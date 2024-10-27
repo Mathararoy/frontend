@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/frontend/static/css/main.d4fe931b.css",
+    "main.js": "/frontend/static/js/main.fca06c96.js",
+    "static/js/545.6d33e07c.chunk.js": "/frontend/static/js/545.6d33e07c.chunk.js",
+    "static/js/198.dd1cbb60.chunk.js": "/frontend/static/js/198.dd1cbb60.chunk.js",
+    "static/media/register.png": "/frontend/static/media/register.c63eced99fcb38972a6c.png",
+    "static/media/login.png": "/frontend/static/media/login.78ccab5e2cbeadd1d2f2.png",
+    "static/media/loader.gif": "/frontend/static/media/loader.9d11df4bdd0bb34de773.gif",
+    "static/media/mc_symbol.png": "/frontend/static/media/mc_symbol.fdc27ea6e9ce2b43358c.png",
+    "static/media/payment.svg": "/frontend/static/media/payment.3b0e433fe5e851691d623c1e036e96c0.svg",
+    "static/media/revicons.eot": "/frontend/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/frontend/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/frontend/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/bg-boost-desktop.svg": "/frontend/static/media/bg-boost-desktop.772154c9b0e451733f5e.svg",
+    "index.html": "/frontend/index.html",
+    "main.d4fe931b.css.map": "/frontend/static/css/main.d4fe931b.css.map",
+    "main.fca06c96.js.map": "/frontend/static/js/main.fca06c96.js.map",
+    "545.6d33e07c.chunk.js.map": "/frontend/static/js/545.6d33e07c.chunk.js.map",
+    "198.dd1cbb60.chunk.js.map": "/frontend/static/js/198.dd1cbb60.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4fe931b.css",
+    "static/js/main.fca06c96.js"
+  ]
+}
